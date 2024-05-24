@@ -1,6 +1,6 @@
 ![Flow11x-25fps-ezgif com-optimize](https://github.com/foreverbog/foreverbog/assets/133509015/5cae6d26-55e3-453f-843e-b32217c321ee)
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverbog&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverbog&layout=compact&theme=dark)
 <!--
 **foreverbog/foreverbog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
