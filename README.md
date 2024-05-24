@@ -1,13 +1,11 @@
 ![Flow11x-25fps-ezgif com-optimize](https://github.com/foreverbog/foreverbog/assets/133509015/5cae6d26-55e3-453f-843e-b32217c321ee)
 
+
+
 ### My tech:
 
-<div style="text-align: center;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,nodejs,postgres,mongodb,figma" alt="My Skills">
-  </a>
-</div>
 <p align="center">
+  <h3>My tech:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,nodejs,postgres,mongodb,figma" alt="My Skills"/>
   </a>
