@@ -23,10 +23,7 @@
 <hr/>
 
 
-
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverbog&layout=compact&theme=dark)
-<div style="text-align: center;">
-  <h3>Top Languages:</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foreverbog&layout=compact&theme=dark" alt="Top Langs">
-</div>
+</p>
 
