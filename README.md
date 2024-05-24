@@ -21,9 +21,15 @@
 </p>
 
 <hr/>
-
-
+  <h3 align="center">Let's Connect on LinkedIn</h3>
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverbog&layout=compact&theme=dark)
+  <a href="https://linkedin.com/in/lazar-bogdan">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="My Skills"/>
+  </a>
 </p>
 
+<hr/> 
+ 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foreverbog&layout=compact&theme=dark" alt="Top Langs">
+</div>
