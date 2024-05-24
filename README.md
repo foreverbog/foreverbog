@@ -11,11 +11,7 @@
   </a>
 </p>
 <hr/>
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,figma,vscode,git,github" alt="My Skills"/>
-  </a>
-</p> -->
+
 
   <h3 align="center">Upcoming Learning Goals:</h3>
 <p align="center">
@@ -26,21 +22,11 @@
 
 <hr/>
 
-<!--
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
---!>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverbog&layout=compact&theme=dark)
+<div style="text-align: center;">
+  <h3>Top Languages:</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foreverbog&layout=compact&theme=dark" alt="Top Langs">
+</div>
 
