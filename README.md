@@ -7,7 +7,11 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,nodejs,postgres,mongodb,figma" alt="My Skills">
   </a>
 </div>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,nodejs,postgres,mongodb,figma" alt="My Skills"/>
+  </a>
+</p>
 <!--
 
 
