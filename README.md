@@ -7,9 +7,10 @@
   <h3 align="center">Current Tech Stack :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,nodejs,postgres,mongodb,figma,vscode,git,github&perline=4" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,nodejs,postgres,mongodb,figma,vscode,git&perline=4" alt="My Skills"/>
   </a>
 </p>
+<hr/>
 <!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,figma,vscode,git,github" alt="My Skills"/>
@@ -22,6 +23,8 @@
     <img src="https://skillicons.dev/icons?i=ts,nextjs" alt="My Skills"/>
   </a>
 </p>
+
+<hr/>
 
 <!--
 
