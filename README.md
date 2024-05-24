@@ -10,6 +10,11 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,nodejs,postgres,mongodb,figma&perline=4" alt="My Skills"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,figma" alt="My Skills"/>
+  </a>
+</p>
 <!--
 
 
