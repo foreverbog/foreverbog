@@ -4,8 +4,8 @@
 
 ### My tech:
 
-<p align="center">
   <h3 align="center">My tech:</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,nodejs,postgres,mongodb,figma" alt="My Skills"/>
   </a>
