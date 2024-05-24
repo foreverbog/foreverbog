@@ -1,5 +1,7 @@
 ![Flow11x-25fps-ezgif com-optimize](https://github.com/foreverbog/foreverbog/assets/133509015/5cae6d26-55e3-453f-843e-b32217c321ee)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://skillicons.dev)
+
+### My tech:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,nodejs,postgres,mongodb,figma)](https://skillicons.dev)
 <!--
 
 
