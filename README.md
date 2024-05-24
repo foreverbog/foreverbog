@@ -1,8 +1,7 @@
 ![Flow11x-25fps-ezgif com-optimize](https://github.com/foreverbog/foreverbog/assets/133509015/5cae6d26-55e3-453f-843e-b32217c321ee)
-## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverbog&layout=compact&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://skillicons.dev)
 <!--
-**foreverbog/foreverbog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![Flow11x-25fps-ezgif com-optimize](https://github.com/foreverbog/foreverbog/assets/133509015/0be2d440-1b19-4b03-a40d-b019eb3d092e)
 
+--!>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverbog&layout=compact&theme=dark)
 
