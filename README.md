@@ -9,7 +9,9 @@
   <h3 align="center">Current Tech Stack :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,nodejs,postgres,mongodb,figma,vscode,git&perline=4" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,express,nodejs,postgres,mongodb,figma,vscode&perline=4" alt="My Skills"/>
+    <br />
+    <img src="https://skillicons.dev/icons?i=git alt="My Skills"/>
   </a>
 </p>
 <hr/>
@@ -20,7 +22,7 @@ On my full-stack web developer journey, the next step is on the horizon, and I c
   <h3 align="center">Upcoming Learning Goals:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,php" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=nextjs,php" alt="My Skills"/>
   </a>
 </p>
 
