@@ -20,7 +20,7 @@ On my full-stack web developer journey, the next step is on the horizon, and I c
   <h3 align="center">Upcoming Learning Goals:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,php" alt="My Skills"/>
   </a>
 </p>
 
