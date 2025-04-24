@@ -9,7 +9,7 @@
   <h3 align="center">Current Tech Stack :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,express,nodejs,postgres,mongodb,figma,vscode&perline=4" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,express,nodejs,postgres,mongodb,figma,vscode,git&perline=4" alt="My Skills"/>
     <br />
     <img src="https://skillicons.dev/icons?i=git alt="My Skills"/>
   </a>
