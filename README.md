@@ -14,11 +14,11 @@
   </a>
 </p>
 <hr/>
-<!-- <p align="center">
-On my full-stack web developer journey, the next step is on the horizon, and I couldn't be more excited. Coming up, I'll be diving into the exciting world of TypeScript and gearing up to master Next.js. Web development is my playground—I'm always on the lookout for new tech to explore and new skills to add to my toolkit!
+ <p align="center">
+I'm a passionate developer who loves building clean, modern web applications. I’m always curious, continuously learning, and excited about exploring new technologies and improving my skills.
 </p>
 
-  <h3 align="center">Upcoming Learning Goals:</h3>
+  <!-- <h3 align="center">Upcoming Learning Goals:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c#" alt="My Skills"/>
